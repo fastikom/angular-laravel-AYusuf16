@@ -1,2 +1,4 @@
 # angular-laravel-AYusuf16
-angular-laravel-AYusuf16 created by GitHub Classroom
+Nama Kelompok : <br>
+Ahmad Yusuf / 2014150018 / TI 02 <br>
+Muhammad Akrom Chasani / 2014150073 / TI 03
